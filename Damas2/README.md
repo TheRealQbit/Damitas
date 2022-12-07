@@ -7,7 +7,7 @@ This project was coded by Yago Martínez.
 
 The repository has two main parts:
 
- - Obsidian: This is my custom 3d game engine developed using LWJGL. Unfortunately, I couldn't use it as I couldn't fully implement the Raycasting function and so you are not able to select a piece and move it.
+ - main: This is my custom 3d game engine developed using LWJGL, the package is called OBSIDIAN. Unfortunately, I couldn't use it as I couldn't fully implement the Raycasting function and so you are not able to select a piece and move it.
  - 2D: This package contains the final project itself. This is just a 2d version of the 3d project. 
 
 ## Important considerations
