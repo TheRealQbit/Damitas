@@ -18,4 +18,7 @@ The repository has two main parts:
 
 I would highly recommend using Intellij idea IDE. Intellij idea is a modern IDE developed for java, it has a great library of plugins including one for Gradle making it a great alternative to Eclipse. It also has a free version called Intellij Idea community. You can get your hands over Intellij for free on its website: [Download](https://www.jetbrains.com/idea/download/#section=windows)
 If you have Eclipse you should be able to run it normally.
+## Student profile
+Team members: 1
+	Yago Martínez de Fuenmayor, NIU:100499631
 
